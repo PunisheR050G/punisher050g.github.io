@@ -1,8 +1,8 @@
-# Shapely
+# Waterly
 
-## About Shapely
+## About Waterly
 
-Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
+Waterly is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
 
 Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
 
